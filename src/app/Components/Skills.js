@@ -9,7 +9,7 @@ function WorkExperience() {
 <path d="M37.0689 100.854L38.508 39.3827L91.0239 71.3644L37.0689 100.854Z" stroke="#E7E7E7" strokeLinejoin="round"/>
 </svg>
 
-        <h1 className='font-bold text-3xl font-mono mt-auto mb-auto'>Work Experience</h1>
+        <h1 className='font-bold text-3xl font-mono mt-auto mb-auto'>Skills</h1>
 
         </div>
 
