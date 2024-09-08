@@ -17,7 +17,7 @@ function Profile() {
         <div>
         <p className='text-gray-500 text-2xl'>A programmer who</p>
         <h1 className='font-extrabold text-6xl mb-3 mt-1'>Believes the code is just as important as the interface ...</h1>
-        <p className='text-gray-500 text-2xl'>Because if the foundation isn't solid, the beauty won't last</p>
+        <p className='text-gray-500 text-2xl'>Because if the foundation isn&apos;t solid, the beauty won&apos;t last</p>
         </div>
     </div>
   )
